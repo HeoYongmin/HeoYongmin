@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/HeoYongmin">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=HeoYongminRepository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=Yongmin_GitHub&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
   </a>
 </p>
 
