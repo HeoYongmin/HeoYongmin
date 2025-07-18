@@ -8,10 +8,9 @@
 ## Profile
 - Name : Heo YongMin
 - Email : snrn2634@naver.com
-- 🔭 I'm currently working as an IoT 
-  - Major : C#, C++
-  - Minor : Python, Web Dev(Spring Boot, ASP.NET, etc)
-
+- 🔭 I'm currently working as an BOWOOSYSTEM
+  - Major : C#, VB6, MSSQL
+    
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/HeoYongmin">
@@ -43,8 +42,3 @@
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
-## 기술명세
-| 기술분류 | 설명 |
-|:---:|:---:|
-| VSCode | VisualStudio Code 툴 사용법 습득|
-|Python | 빅데이터분석, 머신러닝, OpenCV
