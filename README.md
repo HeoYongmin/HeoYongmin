@@ -23,7 +23,7 @@
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" alt="image" src="https://github.com/user-attachments/assets/7cf65718-fd1f-4113-adee-33d7beb406e7" title="VB">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
+    <img height="40" alt="image" src="https://github.com/user-attachments/assets/6a6e296d-bd42-4590-9c11-0c268fa76fd6" title="MSSQL">
 </p>
 
 ## Using Tools
@@ -34,6 +34,5 @@
   
   <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
